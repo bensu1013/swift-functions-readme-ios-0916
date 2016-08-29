@@ -35,3 +35,11 @@ sayHelloToCat(catFriend)
 
 // Uncomment this line to see the error that is printed in the console.
 //sayHelloToCat()
+
+func awesome(name: String) {
+    print("That is AWESOME, \(name)!")
+    
+}
+awesome("Greg")
+awesome("Me")
+awesome("He")
